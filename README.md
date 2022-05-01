@@ -1,5 +1,5 @@
 # ForestCover
-ineuron class project
+Personal project
 
 dataset at : https://archive.ics.uci.edu/ml/datasets/covertype
 
